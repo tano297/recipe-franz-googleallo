@@ -1,0 +1,23 @@
+{
+  "name": "googleallo-franz",
+  "version": "1.0.0",
+  "description": "Google Allo",
+  "main": "index.js",
+  "author": "SiloCityLabs LLC",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://allo.google.com/web",
+    "serviceName": "Google Allo",
+    "message": "Google Allo",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true,
+    "hasDirectMessages": true,
+    "customURL": false,
+    "hasTeamID": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
