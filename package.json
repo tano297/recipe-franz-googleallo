@@ -9,7 +9,6 @@
   "config": {
     "serviceURL": "https://allo.google.com/web",
     "hasNotificationSound": true,
-    "hasIndirectMessages": true,
     "hasDirectMessages": true
   }
 }
