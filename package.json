@@ -8,17 +8,8 @@
   "license": "MIT",
   "config": {
     "serviceURL": "https://allo.google.com/web",
-    "serviceName": "Google Allo",
-    "message": "Google Allo",
-    "popup": [],
     "hasNotificationSound": true,
     "hasIndirectMessages": true,
-    "hasDirectMessages": true,
-    "customURL": false,
-    "hasTeamID": false,
-    "webviewOptions": {
-      "disablewebsecurity": ""
-    },
-    "openDevTools": true
+    "hasDirectMessages": true
   }
 }
