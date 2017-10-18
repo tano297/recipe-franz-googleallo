@@ -8,7 +8,6 @@
   "license": "MIT",
   "config": {
     "serviceURL": "https://allo.google.com/web",
-    "hasNotificationSound": true,
-    "hasDirectMessages": true
+    "hasNotificationSound": true
   }
 }
