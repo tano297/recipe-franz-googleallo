@@ -1,5 +1,6 @@
 {
-  "name": "googleallo-franz",
+  "id": "googleallo",
+  "name": "Google Allo",
   "version": "1.0.0",
   "description": "Google Allo",
   "main": "index.js",
@@ -18,6 +19,6 @@
     "webviewOptions": {
       "disablewebsecurity": ""
     },
-    "openDevTools": false
+    "openDevTools": true
   }
 }
