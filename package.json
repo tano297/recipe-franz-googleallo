@@ -1,13 +1,13 @@
 {
-  "id": "googleallo",
-  "name": "Google Allo",
-  "version": "1.0.0",
-  "description": "Google Allo",
+  "id": "wunderlist",
+  "name": "Wunderlist",
+  "version": "0.0.1",
+  "description": "Wunderlist plugin for Franz",
   "main": "index.js",
-  "author": "SiloCityLabs LLC",
+  "author": "Andres Milioto",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://allo.google.com/web",
+    "serviceURL": "https://www.wunderlist.com",
     "hasNotificationSound": true
   }
 }
